@@ -5,7 +5,7 @@ Bienvenido al repositorio del proyecto sobre modelos de machine learning, espec�
 
 ## Descripción
 Este repositorio contiene un conjunto de scripts donde solamente se han creado un modelos de Regresión Lineal, Ridge, Lasso, Elastic Net.
-[Data Set](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset) .
+[Data Set](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset) .
 
 ## Contenido del Repositorio
 - [Data Notebook](https://github.com/jtbigdata/MLM_CustomerShoppingDataset/blob/main/MML_RegresionesLineales.ipynb): Cuaderno Jupyter con los modelos de Machine Learning.
